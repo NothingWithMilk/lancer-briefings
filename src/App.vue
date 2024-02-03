@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Solstice Rain",
           "status": "start"
         },
       ],
@@ -142,14 +142,14 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
+        "planet": "Cressidium",
+        "year": "5016u",
+        "system": "Unincorporated",
+        "gate": "Cascade-Quanokrim",
+        "ring": "Cascade-Line",
+        "headerTitle": "Evil Eye",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
+        "subheaderTitle": "Search and Extraction",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
       "options":{
